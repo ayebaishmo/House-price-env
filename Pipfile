@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 numpy = "*"
 scikit-learn = "*"
+category_encoders = "*"
 
 [dev-packages]
 ipykernel = "*"
