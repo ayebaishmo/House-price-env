@@ -8,6 +8,7 @@ pandas = "*"
 numpy = "*"
 scikit-learn = "*"
 category_encoders = "*"
+ydata-profiling = "*"
 
 [dev-packages]
 ipykernel = "*"
